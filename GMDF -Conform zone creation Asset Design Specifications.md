@@ -124,7 +124,8 @@ The following is a list of high-level steps that each component performs launchi
 
 <br>
 
-![Figure 1](workflow.png)
+![Figure 1](workflow.PNG)
+
 
 **Figure 1****
 
@@ -149,7 +150,8 @@ The Azure Databricks Workflows are built through a yml file stored in *deploymen
 
 The Figure below briefly summarizes how the Azure GMDF -Conform zone creation Asset component is interfaced with DevOps automatic pipelines:
 
-![Figure 2](pipeline_design.png)
+![Figure 2](pipeline_design.PNG)
+
 
 **Figure 2****
 
@@ -240,7 +242,8 @@ The steps of gmdfdp_conform_asset_dataproduct in the Azure Databricks Workflow:Â
 
 The process required to ingest data from Azure refine to conform is illustrated in the Figure below:
 
-![Figure 3](workflow_component.png)
+![Figure 3](workflow_component.PNG)
+
 
 **Figure 3****
 
